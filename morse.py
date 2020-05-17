@@ -4,7 +4,7 @@ import time
 
 GPIO.setmode(GPIO.BCM)
 GPIO.setup(18, GPIO.OUT)
-
+sup = "sup"
 TIME_UNIT = 1
 
 DOT= TIME_UNIT
